@@ -1,7 +1,7 @@
 ![forks](https://img.shields.io/github/forks/fuerostic/3D-bedroom-in-OpenGL)
 ![stars](https://img.shields.io/github/stars/fuerostic/3D-bedroom-in-OpenGL)
 
-# 3D-bedroom-in-OpenGL![licence](https://img.shields.io/github/license/fuerostic/3D-bedroom-in-OpenGL)
+# 3D-bedroom-in-OpenGL ![licence](https://img.shields.io/github/license/fuerostic/3D-bedroom-in-OpenGL)
 3D bedroom scene made as GLUT project in OpenGL
 
 ## Language 
