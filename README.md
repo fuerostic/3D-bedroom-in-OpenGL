@@ -13,8 +13,8 @@
 
 
 ## Gallery
-<img src=""  width="400" height="200" />|
-<img src=""  width="400" height="200" />|
+<img src="https://github.com/fuerostic/3D-bedroom-in-OpenGL/blob/main/Screenshot%202022-10-25%20001134.jpg"  width="400" height="200" />|
+<img src="https://github.com/fuerostic/3D-bedroom-in-OpenGL/blob/main/Screenshot%202022-10-25%20001153.jpg"  width="400" height="200" />|
 
 
 ## How to use
@@ -23,7 +23,7 @@ Change the `dir` variable in `main.cpp` to your own directory.
 ## Features
 - Animated Fan
 - Textured objects
-- Various operations like Roll, pitch ,yaw , panning , zooming 
+- Various operations like Roll, pitch ,yaw , panning , zooming etc
 - Switching of 3 types of lights
 
 
